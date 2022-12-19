@@ -31,31 +31,30 @@
   ```  
   void remove(int index);
   ```
-
 - Обращение к элементу по индексу
   ```
   const T& operator[](int index) const;
   T& operator[](int index);
   ```
   
-  - Возвращение размера массива
+- Возвращение размера массива
   ```
   int size() const;
   ```
   
-  - Итератор
+- Итератор
   ```
   Iterator iterator();
   ConstIterator iterator() const;
   ```
   
-  - Реверсивный итератор
+- Реверсивный итератор
   ```
   Iterator reverseIterator();
   ConstIterator reverseIterator() const;
   ```
   
-   Итератор реализован, как класс, и ему также доступны следующие операции:
+Итератор реализован, как класс, и ему также доступны следующие операции:
   - Получение значения массива в текущей позиции итератора
     ```
     const T& get() const;
