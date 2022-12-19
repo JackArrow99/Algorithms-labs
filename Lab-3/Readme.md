@@ -7,6 +7,6 @@
   <br />
 
 В ходе тестирования функции была найдена оптимальная граница для переключения между различными алгоритмами сортировки и ускорения работы функции:
-![alt text](https://github.com/JackArrow99/Algorithms-labs/blob/main/Lab-3/Lab-3_Diagram.png) 
+![alt text](https://github.com/JackArrow99/Algorithms-labs/blob/main/Lab-3/Diagram.png) 
 
 Диаграмма показывает, что граница применения различных алгоритмов находится в точке N = 42 (количество элементов массива).
