@@ -41,7 +41,7 @@ int dice(input,separator,getMax)
 С помощью созданной функции было исследовано распределение вероятностей для бросков 1d6, 2d6, 3d6, 1d10, 2d10, 3d10. Каждая комбинация костей была выброшена 100 000 раз, данные о бросках записаны в таблицу. По данным построен график ниже:
   <br /><br />
   
-![alt text](https://github.com/JackArrow99/Algorithms-labs/blob/main/Lab-4/Diagram-4.png)
+![alt text](https://github.com/JackArrow99/Algorithms-labs/blob/main/Lab-4/Diagram_4.png)
 
   <br />
   
