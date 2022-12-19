@@ -6,7 +6,7 @@
 ```
 dice(“2d6+2,3d10”);
 ```
- <br />
+ 
 Созданная функция имеет следующий вид:
 ```
 int dice(input,separator,getMax)
